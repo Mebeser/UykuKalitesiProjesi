@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Used%20Library-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)
+![MachineLearning](https://img.shields.io/badge/Machine%20Learning-Enabled-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 # 🌙 Uyku Kalitesi Analiz ve Görselleştirme Aracı
 
 Bu proje, kullanıcıların uyku alışkanlıklarını analiz etmek, istatistiksel olarak değerlendirmek ve görselleştirmek amacıyla geliştirilmiş bir **Python tabanlı analiz uygulamasıdır**.  
